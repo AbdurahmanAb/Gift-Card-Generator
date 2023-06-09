@@ -1,6 +1,6 @@
 # Made with ♥️ and React
 
-##Generate HolyDay gift Card for Your Beloved Ones.
+## Generate HolyDay gift Card for Your Beloved Ones.
 ## Available Scripts
 
 In the project directory, you can run:
